@@ -97,7 +97,7 @@ Installing
 
 You can get spyne via pypi: ::
 
-    easy_install spyne
+    pip install spyne
 
 or you can clone the latest master tree from github: ::
 
